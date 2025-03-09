@@ -10,6 +10,7 @@ cd ..
 
 cd open5gs-k8s
 ./deploy-all.sh
+./add-cots-subscribers.sh
 cd ..
 
 # Get the default network interface
